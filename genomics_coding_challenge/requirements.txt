@@ -1,0 +1,8 @@
+click==8.1.2
+pyfastx==0.8.4
+Levenshtein==0.18.1
+black==22.3.0
+flake8==4.0.1
+pandas==1.4.2
+# scipy
+# matplotlib
